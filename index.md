@@ -50,4 +50,4 @@ image_write(final_meme, "my_meme.png")
 
 ```
 
-![my_meme](my_meme.png)
+![my_meme](https://user-images.githubusercontent.com/100745233/159192148-e3616808-2f45-43eb-8a38-ba02176baf82.png)
