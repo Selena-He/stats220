@@ -1,11 +1,9 @@
 ## My Meme
-```html
-Below is a meme I have created for stats 220 about procrastinating on assignments. It contains two of the greatest things in this world:
+Below is a meme I have created for stats 220 about procrastinating on assignments. <br/>
+It contains two of the greatest things in this world:
 1. A dog
 2. A cat 
-<p> The meme is, *for all intents and purposes*, a joke ~~(maybe)~~, and not meant to be taken as advice or at face value. </p>
-
-```html
+<p> The meme is, for all intents and purposes, a joke, and not meant to be taken as advice or at face value. </p>
 
 ### R Code 
 ```r
