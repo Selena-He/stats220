@@ -3,8 +3,7 @@
 Below is a meme I have created for stats 220 about procrastinating on assignments. It contains two of the greatest things in this world:
 1. A dog
 2. A cat 
-<br/>
-The meme is, *for all intents and purposes*, a joke ~~(maybe)~~, and not meant to be taken as advice or at face value.
+<p> The meme is, *for all intents and purposes*, a joke ~~(maybe)~~, and not meant to be taken as advice or at face value. </p>
 
 ### R Code 
 ```r
