@@ -1,4 +1,4 @@
-#My Meme
+## My Meme
 
 Below is a meme I have created for stats 220 about procrastinating on assignments. It contains two of the greatest things in this world:
 1. A dog
