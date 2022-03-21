@@ -7,7 +7,7 @@ It contains *two of the greatest things* in this world:
 1. A **dog**
 2. A **cat** 
 <br/>
-The meme is, for all intents and purposes, a joke ~~(kind of)~~, and not meant to be taken as advice or at face value. 
+The meme is, for all intents and purposes, a joke, and not meant to be taken as advice or at face value. 
 
 #### R Code 
 ```r
