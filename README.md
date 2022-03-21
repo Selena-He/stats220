@@ -7,5 +7,5 @@
 * ~~Stress induced work :sob: :scream:~~
 * **Hopefully some _fun_ moments!** :v:
 <br/>
-Here is the link to my first project: [Meme](https://github.com/Selena-He/stats220/blob/main/index.md)
+Here is the link to my first project: [Meme](https://github.com/Selena-He/stats220/blob/main/index.md) <br/>
 ![Hope you enjoy!](https://cdn.pixabay.com/photo/2020/12/01/07/04/cats-5793173_960_720.jpg)
