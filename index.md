@@ -2,8 +2,7 @@
 
 ### Introduction
 
-Below is a meme I have created for stats 220 about procrastinating on assignments. <br/>
-It contains *two of the greatest things* in this world:
+Below is a meme I have created for stats 220 about procrastinating on assignments using R studion and the magick package. It contains *two of the greatest things* in this world:
 1. A **dog**
 2. A **cat** 
 <br/>
