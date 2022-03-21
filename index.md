@@ -5,7 +5,7 @@ It contains two of the greatest things in this world:
 2. A cat 
 <p> The meme is, for all intents and purposes, a joke, and not meant to be taken as advice or at face value. </p>
 
-### R Code 
+#### R Code 
 ```r
 
 library(magick)
@@ -57,5 +57,5 @@ image_write(final_meme, "my_meme.png")
 
 
 ```
-### Here's the Meme!
+#### Here's the Meme!
 ![my_meme](https://user-images.githubusercontent.com/100745233/159192148-e3616808-2f45-43eb-8a38-ba02176baf82.png)
