@@ -6,7 +6,7 @@ Below is a meme I have created for stats 220 about procrastinating on assignment
 1. A **dog**
 2. A **cat** 
 <br/>
-The meme is, for all intents and purposes, a joke, and not meant to be taken as advice or at face value. 
+I drew inspiration from memes on the internet and memes shown in our class labs, as well as my own experience as a student. The meme is, for all intents and purposes, a joke, and not meant to be taken as advice or at face value. 
 
 #### R Code 
 ```r
