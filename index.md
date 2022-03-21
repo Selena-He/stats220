@@ -1,3 +1,11 @@
+#My Meme
+
+Below is a meme I have created for stats 220 about procrastinating on assignments. It contains two of the greatest things in this world:
+1. A dog
+2. A cat
+The meme is, *for all intents and purposes*, ~~(mostly)~~ a joke, and not meant to be taken as advice or at face value.
+
+
 ```r
 
 library(magick)
